@@ -11,6 +11,7 @@ package studentdetails;
 public class Student {
     private int sid;
     private String name;
+    private String prgname;
 
     /**
      * @return the sid
