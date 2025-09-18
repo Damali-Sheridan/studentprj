@@ -14,6 +14,8 @@ public class Student {
     private String prgname;
     private String classCode;
 
+// This is branch code 
+    
     /**
      * @return the sid
      */
