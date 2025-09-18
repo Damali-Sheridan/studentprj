@@ -12,6 +12,7 @@ public class Student {
     private int sid;
     private String name;
     private String prgname;
+    private String classCode;
 
     /**
      * @return the sid
